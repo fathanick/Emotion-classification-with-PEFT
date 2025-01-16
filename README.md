@@ -70,12 +70,6 @@ If you find this repository useful, please cite the following:
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## Acknowledgments
 
 - The authors of the [Emotion Dataset from Indonesian Public Opinion](https://github.com/Ricco48/Emotion-Dataset-from-Indonesian-Public-Opinion).
