@@ -13,16 +13,10 @@ This is the publication of this project:
 Published in: *2024 9th International Conference on Information Technology and Digital Applications (ICITDA)*  
 [DOI: https://ieeexplore.ieee.org/document/10810037](https://ieeexplore.ieee.org/document/10810037)
 
-The dataset used is from:
+## Dataset
 
 **K. E. Riccosan, Saputra, G. D. Pratama, A. Chowanda et al., "Emotion dataset from Indonesian public opinion," Data in Brief, vol. 43, p. 108465, 2022.**  
 GitHub Repository: [Emotion Dataset from Indonesian Public Opinion](https://github.com/Ricco48/Emotion-Dataset-from-Indonesian-Public-Opinion)
-
----
-
-## Dataset
-
-The dataset used in this project is sourced from the [Emotion Dataset from Indonesian Public Opinion](https://github.com/Ricco48/Emotion-Dataset-from-Indonesian-Public-Opinion). It contains text-based public opinions annotated with emotional labels.
 
 ---
 
